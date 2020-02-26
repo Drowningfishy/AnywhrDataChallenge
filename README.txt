@@ -1,0 +1,4 @@
+- Download Anaconda and set up its environment
+- Open the ipynb file that contains the code using Jupyte notebook, which can be launched by  opening Anaconda
+- pip install lxml
+- pip install beautifulsoup4
